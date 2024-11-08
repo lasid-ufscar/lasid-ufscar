@@ -1,8 +1,6 @@
 <div align="center">
-  <img src=/img/final_results.png>
+  <img src=/img/banner.png>
 </div>
-
-![visitors](https://vbr.nathanchung.dev/badge?page_id=lasid-ufscar.lasid-ufscar&color=1a4493)
 
 ## :book: About us
 The **Intelligent Systems and Data Science Laboratory (LaSID)** was established in 2011 within the **Department of Computer Science (DComp-So)** at the **Federal University of São Carlos (UFSCar)**, Brazil. LaSID is a dynamic hub of innovation and excellence in Artificial Intelligence (AI) and Data Science, driven by a team of highly qualified researchers affiliated with **UFSCar’s Postgraduate Program in Computer Science (PPGCC)**. The lab offers numerous **research opportunities**, including master’s, doctoral, and post-doctoral positions, as well as undergraduate research projects, fostering a **multidisciplinary environment** for academic and professional growth.
@@ -14,5 +12,6 @@ LaSID maintains **strategic collaborations** with leading academic institutions 
 With a commitment to **innovation**, **excellence**, and **societal impact**, LaSID continues to shape the future of intelligent systems and data-driven solutions, preparing the next generation of researchers and professionals to tackle the world’s most pressing challenges.
 
 ## 📫 How to reach us:
+You can follow us on LinkedIn or see more informations in our website!
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow LaSID LinkedIn" title="Follow LaSID on LinkedIn"/>](https://www.linkedin.com/company/lasid-ufscar/)
